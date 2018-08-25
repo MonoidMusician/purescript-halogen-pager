@@ -1,4 +1,4 @@
-module Main where
+module Halogen.Pager where
 
 import Prelude
 import Data.Maybe (Maybe)
