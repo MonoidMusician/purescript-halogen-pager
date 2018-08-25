@@ -1,0 +1,20 @@
+{
+  "name": "purescript-halogen-pager",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-halogen": "master",
+    "purescript-variant": "^5.0.0"
+  },
+  "authors": [
+    "Nicholas Scheel <monoidmusician@gmail.com>"
+  ],
+  "description": "A helper class to organize pages in Halogen 5+",
+  "main": "",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/MonoidMusician/purescript-halogen-pager"
+}
